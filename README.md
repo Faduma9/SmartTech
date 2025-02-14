@@ -23,10 +23,9 @@
 ![Shopping Cart View](https://github.com/tajjav/SmartTech/blob/master/screenshots/ShoppingCart.png)
 
 
+![Pay with Card Checkout View](https://github.com/tajjav/SmartTech/blob/master/screenshots/PayWithCard.png)
 
 ![Order Confirmation View](https://github.com/tajjav/SmartTech/blob/master/screenshots/OrderConfirmation.png)
-
-![Pay with Card Checkout View](https://github.com/tajjav/SmartTech/blob/master/screenshots/PayWithCard.png)
 
 
 
